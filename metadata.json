@@ -1,0 +1,6 @@
+{
+  "name": "Network Architect: Data Center Tycoon",
+  "description": "An isometric data center tycoon simulation. Plan hardware, mount racks, wire patch cables, configure network topology & terminal, and survive DDoS attacks and overheat crises as you expand from a garage to an enterprise data center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
